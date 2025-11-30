@@ -6,13 +6,13 @@ This page showcases my hands-on research and engineering project experience, hig
 
 ## Academic Research
 
-### **Cryogenic Characterization of HfO2 Memristors**
-*Undergraduate Researcher | University of Tennessee Knoxville (Summer 202X)*
-*   Conducted research under Dr. Garrett Rose, focusing on the low-temperature memory design for quantum and neuromorphic computing applications.
-*   Tested HfO2-based memristors at cryogenic temperatures (77 K) to investigate RESET failure mechanisms.
-*   Experimentally induced RESET failure by progressively lowering applied RESET voltage, finding that memristors at 77 K fail more consistently and at a slightly higher voltage (-1.773 V) than at room temperature.
-*   Gained direct experience with high-level instrument control, programming a Keysight B1500A Semiconductor Device Analyzer using PyVISA and custom Python bindings.
-*   My data contributes to refining existing Verilog-A models for cryogenic architecture design.
+### [Cryogenic Characterization of HfO2 Memristors](cryogenic-memristors.qmd)
+*Undergraduate Researcher | University of Tennessee Knoxville (Summer 2025)*
+
+*   **Octopus PCB:** Designed a custom PCB for connecting D-Sub cables to Analog Input/Output Pixies, enabling flexible testing configurations.
+*   **RESET-Failure Evaluation:** Investigated failure mechanisms in HfO2-based memristors at 77K using a cryogenic probe station and semiconductor analyzer.
+
+[**View Full Project Details**](cryogenic-memristors.qmd)
 
 ## Clinic Projects
 
