@@ -7,7 +7,17 @@ date: 2025-07-01
 **Associated with Tickle College of Engineering at the University of Tennessee**  
 *June 2025 - July 2025*
 
-This page details my work as an Undergraduate Researcher under Dr. Garrett Rose, focusing on low-temperature memory design for quantum and neuromorphic computing applications. The project involved two main components: the design of a custom PCB ("Octopus PCB") and the experimental evaluation of memristor failure at cryogenic temperatures.
+This page details my work as an Undergraduate Researcher under Dr. Garrett Rose, focusing on low-temperature memory design for quantum and neuromorphic computing applications. The project involved two main components: experimental evaluation of memristor failure at cryogenic temperatures and the design of a custom PCB ("Octopus PCB").
+
+## RESET-Failure Evaluation of HfO₂-Based Memristors at Cryogenic Temperatures
+
+**Skills:** Python (Programming Language) · C++ · Keysight B1500A Semiconductor Tester · Data Analysis
+
+This study investigates RESET failure in HfO₂-based memristors at cryogenic temperatures. RESET failure is defined as a destructive event in which the device becomes permanently stuck at a fixed resistance.
+
+Using a B1500A Semiconductor Device Analyzer and a FormFactor PMC200 cryogenic probe station, the applied RESET voltage was progressively lowered at 70 K until failure occurred.
+
+[**Download Technical Report (PDF)**](images/octopus-pcb/technical_report.pdf)
 
 ## Octopus PCB
 
@@ -28,13 +38,3 @@ The main function of the PCB is to allow the user to connect two 25 Position D-S
 [**Download Schematic (PDF)**](images/octopus-pcb/octopus_schematic.pdf)
 
 The input from the 25 D-Sub cable goes through a 100 ohm resistor which can be bypassed with a switch. It then enters into the analog input cable. There is a second switch which then connects it to the analog output cable. The analog output can be run with the pin still connected to the analog input at the same time. The analog input can not be run while connected to the analog output. In addition each of the pins can be accessed through a RF Connector or through test pads located before the analog output side.
-
-## RESET-Failure Evaluation of HfO₂-Based Memristors at Cryogenic Temperatures
-
-**Skills:** Python (Programming Language) · C++ · Keysight B1500A Semiconductor Tester · Data Analysis
-
-This study investigates RESET failure in HfO₂-based memristors at cryogenic temperatures. RESET failure is defined as a destructive event in which the device becomes permanently stuck at a fixed resistance.
-
-Using a B1500A Semiconductor Device Analyzer and a FormFactor PMC200 cryogenic probe station, the applied RESET voltage was progressively lowered at 70 K until failure occurred.
-
-[**Download Technical Report (PDF)**](images/octopus-pcb/technical_report.pdf)

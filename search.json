@@ -4,14 +4,7 @@
     "href": "cryogenic-memristors.html",
     "title": "Cryogenic Characterization of HfO2 Memristors",
     "section": "",
-    "text": "Associated with Tickle College of Engineering at the University of Tennessee\nJune 2025 - July 2025\nThis page details my work as an Undergraduate Researcher under Dr. Garrett Rose, focusing on low-temperature memory design for quantum and neuromorphic computing applications. The project involved two main components: the design of a custom PCB (“Octopus PCB”) and the experimental evaluation of memristor failure at cryogenic temperatures."
-  },
-  {
-    "objectID": "cryogenic-memristors.html#octopus-pcb",
-    "href": "cryogenic-memristors.html#octopus-pcb",
-    "title": "Cryogenic Characterization of HfO2 Memristors",
-    "section": "Octopus PCB",
-    "text": "Octopus PCB\nSkills: Printed Circuit Board (PCB) Design · 3D Design · PCB Design\nThe main function of the PCB is to allow the user to connect two 25 Position D-Sub Male Cable to then be connected to Analog Input Pixie 6365 or a Analog Output Pixie 6738.\n\n\n\n\n\n\nFinal PCB on Mounting Board\n\n\n\n\n\n\n\nOutline of PCB\n\n\n\n\n\n\n\n\n\n\n\n3D Rendering of PCB\n\n\n\n\n\nDownload Schematic (PDF)\nThe input from the 25 D-Sub cable goes through a 100 ohm resistor which can be bypassed with a switch. It then enters into the analog input cable. There is a second switch which then connects it to the analog output cable. The analog output can be run with the pin still connected to the analog input at the same time. The analog input can not be run while connected to the analog output. In addition each of the pins can be accessed through a RF Connector or through test pads located before the analog output side."
+    "text": "Associated with Tickle College of Engineering at the University of Tennessee\nJune 2025 - July 2025\nThis page details my work as an Undergraduate Researcher under Dr. Garrett Rose, focusing on low-temperature memory design for quantum and neuromorphic computing applications. The project involved two main components: experimental evaluation of memristor failure at cryogenic temperatures and the design of a custom PCB (“Octopus PCB”)."
   },
   {
     "objectID": "cryogenic-memristors.html#reset-failure-evaluation-of-hfo₂-based-memristors-at-cryogenic-temperatures",
@@ -19,6 +12,13 @@
     "title": "Cryogenic Characterization of HfO2 Memristors",
     "section": "RESET-Failure Evaluation of HfO₂-Based Memristors at Cryogenic Temperatures",
     "text": "RESET-Failure Evaluation of HfO₂-Based Memristors at Cryogenic Temperatures\nSkills: Python (Programming Language) · C++ · Keysight B1500A Semiconductor Tester · Data Analysis\nThis study investigates RESET failure in HfO₂-based memristors at cryogenic temperatures. RESET failure is defined as a destructive event in which the device becomes permanently stuck at a fixed resistance.\nUsing a B1500A Semiconductor Device Analyzer and a FormFactor PMC200 cryogenic probe station, the applied RESET voltage was progressively lowered at 70 K until failure occurred.\nDownload Technical Report (PDF)"
+  },
+  {
+    "objectID": "cryogenic-memristors.html#octopus-pcb",
+    "href": "cryogenic-memristors.html#octopus-pcb",
+    "title": "Cryogenic Characterization of HfO2 Memristors",
+    "section": "Octopus PCB",
+    "text": "Octopus PCB\nSkills: Printed Circuit Board (PCB) Design · 3D Design · PCB Design\nThe main function of the PCB is to allow the user to connect two 25 Position D-Sub Male Cable to then be connected to Analog Input Pixie 6365 or a Analog Output Pixie 6738.\n\n\n\n\n\n\nFinal PCB on Mounting Board\n\n\n\n\n\n\n\nOutline of PCB\n\n\n\n\n\n\n\n\n\n\n\n3D Rendering of PCB\n\n\n\n\n\nDownload Schematic (PDF)\nThe input from the 25 D-Sub cable goes through a 100 ohm resistor which can be bypassed with a switch. It then enters into the analog input cable. There is a second switch which then connects it to the analog output cable. The analog output can be run with the pin still connected to the analog input at the same time. The analog input can not be run while connected to the analog output. In addition each of the pins can be accessed through a RF Connector or through test pads located before the analog output side."
   },
   {
     "objectID": "cv.html",
@@ -67,7 +67,7 @@
     "href": "projects.html#academic-research",
     "title": "Research & Projects",
     "section": "Academic Research",
-    "text": "Academic Research\n\nCryogenic Characterization of HfO2 Memristors\nUndergraduate Researcher | University of Tennessee Knoxville (Summer 2025)\n\nOctopus PCB: Designed a custom PCB for connecting D-Sub cables to Analog Input/Output Pixies, enabling flexible testing configurations.\nRESET-Failure Evaluation: Investigated failure mechanisms in HfO2-based memristors at 77K using a cryogenic probe station and semiconductor analyzer.\n\nView Full Project Details"
+    "text": "Academic Research\n\nCryogenic Characterization of HfO2 Memristors\nUndergraduate Researcher | University of Tennessee Knoxville (Summer 2025)\n\nRESET-Failure Evaluation: Investigated failure mechanisms in HfO2-based memristors at 77K using a cryogenic probe station and semiconductor analyzer.\nOctopus PCB: Designed a custom PCB for connecting D-Sub cables to Analog Input/Output Pixies, enabling flexible testing configurations.\n\nView Full Project Details"
   },
   {
     "objectID": "projects.html#clinic-projects",
