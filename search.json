@@ -18,7 +18,7 @@
     "href": "cryogenic-memristors.html#reset-failure-evaluation-of-hfo₂-based-memristors-at-cryogenic-temperatures",
     "title": "Cryogenic Characterization of HfO2 Memristors",
     "section": "RESET-Failure Evaluation of HfO₂-Based Memristors at Cryogenic Temperatures",
-    "text": "RESET-Failure Evaluation of HfO₂-Based Memristors at Cryogenic Temperatures\nSkills: Python (Programming Language) · C++ · Keysight B1500A Semiconductor Tester · Data Analysis\nThis study investigates RESET failure in HfO₂-based memristors at cryogenic temperatures. RESET failure is defined as a destructive event in which the device becomes permanently stuck at a fixed resistance.\nUsing a B1500A Semiconductor Device Analyzer and a FormFactor PMC200 cryogenic probe station, the applied RESET voltage was progressively lowered at 70 K until failure occurred."
+    "text": "RESET-Failure Evaluation of HfO₂-Based Memristors at Cryogenic Temperatures\nSkills: Python (Programming Language) · C++ · Keysight B1500A Semiconductor Tester · Data Analysis\nThis study investigates RESET failure in HfO₂-based memristors at cryogenic temperatures. RESET failure is defined as a destructive event in which the device becomes permanently stuck at a fixed resistance.\nUsing a B1500A Semiconductor Device Analyzer and a FormFactor PMC200 cryogenic probe station, the applied RESET voltage was progressively lowered at 70 K until failure occurred.\nDownload Technical Report (PDF)"
   },
   {
     "objectID": "cv.html",
