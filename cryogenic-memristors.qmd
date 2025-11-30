@@ -13,7 +13,7 @@ This page details my work as an Undergraduate Researcher under Dr. Garrett Rose,
 
 **Skills:** Python (Programming Language) · C++ · Keysight B1500A Semiconductor Tester · Data Analysis
 
-![](images/octopus-pcb/hrs_reset_failure.png)
+![](images/octopus-pcb/hrs_reset_failure.png){width=25%}
 
 This study investigates RESET failure in HfO₂-based memristors at cryogenic temperatures. RESET failure is defined as a destructive event in which the device becomes permanently stuck at a fixed resistance.
 

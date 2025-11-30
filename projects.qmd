@@ -9,7 +9,7 @@ This page showcases my hands-on research and engineering project experience, hig
 ### [Cryogenic Characterization of HfO2 Memristors](cryogenic-memristors.qmd)
 *Undergraduate Researcher | University of Tennessee Knoxville (Summer 2025)*
 
-![](images/octopus-pcb/hrs_reset_failure.png){width=40%}
+![](images/octopus-pcb/hrs_reset_failure.png){width=10%}
 
 *   **RESET-Failure Evaluation:** Investigated failure mechanisms in HfO2-based memristors at 77K using a cryogenic probe station and semiconductor analyzer.
 *   **Octopus PCB:** Designed a custom PCB for connecting D-Sub cables to Analog Input/Output Pixies, enabling flexible testing configurations.
