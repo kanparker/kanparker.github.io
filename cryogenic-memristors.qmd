@@ -16,8 +16,12 @@ This page details my work as an Undergraduate Researcher under Dr. Garrett Rose,
 The main function of the PCB is to allow the user to connect two 25 Position D-Sub Male Cable to then be connected to Analog Input Pixie 6365 or a Analog Output Pixie 6738.
 
 ::: {layout-ncol=2}
-![Outline of PCB](images/octopus-pcb/pcb_outline.jpg)
+![Final PCB on Mounting Board](images/octopus-pcb/pcb_mounted.jpg)
 
+![Outline of PCB](images/octopus-pcb/pcb_outline.jpg)
+:::
+
+::: {layout-ncol=1}
 ![3D Rendering of PCB](images/octopus-pcb/pcb_3d_render.jpg)
 :::
 
