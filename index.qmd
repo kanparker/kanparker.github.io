@@ -3,7 +3,7 @@ title: "Kanoa Parker"
 subtitle: "Electrical Engineering Student | PhD Applicant"
 about:
   template: jolla
-  image: profile.jpg # Add your profile picture as 'profile.jpg' in the root directory
+  image: images/profile.jpg
   image-width: 15em
   image-shape: round
   links:
