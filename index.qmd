@@ -1,0 +1,35 @@
+---
+title: "Kanoa Parker"
+subtitle: "Electrical Engineering Student | PhD Applicant"
+about:
+  template: jolla
+  image: profile.jpg # Add your profile picture as 'profile.jpg' in the root directory
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/your_profile # REPLACE with your LinkedIn URL
+    - icon: github
+      text: Github
+      href: https://github.com/your_profile # REPLACE with your GitHub URL
+    - icon: envelope
+      text: Email
+      href: mailto:your.email@example.com # REPLACE with your email address
+---
+
+## About Me
+
+I am a final year Electrical Engineering undergraduate at Harvey Mudd College, passionate about the **power efficiency of Integrated Circuits** and the development of **novel device architectures**. I am actively pursuing PhD opportunities, particularly at the **University of California, Berkeley**, to contribute to cutting-edge research in **signal processing and control theory**.
+
+My core motivation stems from the critical energy gap facing modern computing, from power-intensive AI to data center demands. I believe that optimizing the power efficiency of Integrated Circuits is a highly effective approach to addressing this challenge. My academic and research experiences have equipped me with a strong foundation in practical application and component-level development, fostering a **systems-level thinking mindset** to create functional and impactful products.
+
+My goal is to develop reliable and power-efficient solutions that can scale sustainably, especially as AI and intelligent interfaces become more pervasive. I am particularly interested in working with faculty focused on power and energy.
+
+---
+### Research Interests
+
+*   **Integrated Circuit Power Efficiency:** Novel device architectures, resistive memory, low-temperature memory design.
+*   **Signal Processing & Control Systems:** Embedded control, digital signal processing, system integration for real-world applications.
+*   **Microelectronics:** Memristors, cryogenic testing, semiconductor device analysis.
+*   **System-Level Design:** Hardware-in-the-Loop (HITL) systems, power electronics (buck/boost converters, grid tie inverters).

@@ -1,0 +1,47 @@
+/* Custom styles for the portfolio */
+
+/* Attempt to un-center the main content area */
+.g-col-12 {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  max-width: none !important;
+}
+
+.quarto-page {
+  padding-left: 15px; /* Adjust as needed */
+  padding-right: 15px; /* Adjust as needed */
+}
+
+/* Specific styling for the jolla template's about section */
+.about-entity .about-link {
+  justify-content: flex-start; /* Aligns links to the start (left) */
+}
+
+.about-entity .quarto-title-block .quarto-title-tools {
+    text-align: left; /* Ensures title-related tools are left-aligned */
+}
+
+.about-entity .quarto-title-block {
+    text-align: left; /* Ensures the title block is left-aligned */
+}
+
+/* Also ensure the content itself is left-aligned if it was centered */
+.about-entity .quarto-about-contents {
+    text-align: left;
+}
+
+/* For the image and text alignment within jolla template */
+.about-entity {
+    display: flex;
+    flex-direction: column; /* Stack image and text vertically */
+    align-items: flex-start; /* Align all items to the start (left) */
+    text-align: left; /* Ensure text is left-aligned */
+}
+
+.about-entity .profile-image {
+    margin-left: 0;
+    margin-right: auto; /* Push image to the left */
+}
+
+/* You may need to inspect your rendered page to find the exact class/id for the main content container */
+/* Common classes might include .main-content, .container, .body-content, etc. */

@@ -1,0 +1,49 @@
+---
+title: "Research & Projects"
+---
+
+This page showcases my hands-on research and engineering project experience, highlighting my ability to apply theoretical knowledge to practical challenges.
+
+## Academic Research
+
+### **Cryogenic Characterization of HfO2 Memristors**
+*Undergraduate Researcher | University of Tennessee Knoxville (Summer 202X)*
+*   Conducted research under Dr. Garrett Rose, focusing on the low-temperature memory design for quantum and neuromorphic computing applications.
+*   Tested HfO2-based memristors at cryogenic temperatures (77 K) to investigate RESET failure mechanisms.
+*   Experimentally induced RESET failure by progressively lowering applied RESET voltage, finding that memristors at 77 K fail more consistently and at a slightly higher voltage (-1.773 V) than at room temperature.
+*   Gained direct experience with high-level instrument control, programming a Keysight B1500A Semiconductor Device Analyzer using PyVISA and custom Python bindings.
+*   My data contributes to refining existing Verilog-A models for cryogenic architecture design.
+
+## Clinic Projects
+
+### **Regenerative Load for HITL Test System**
+*Senior Clinic Project | Exolambda (Current)*
+*   Collaborating with a team to design and build a regenerative load for a Hardware-in-the-Loop (HITL) test system, requiring a minimum of three variable loads at 48 V and 10 A capacity.
+*   Heavily involved in the physical building and testing of regenerative aspects, utilizing buck and boost converters and grid-tie inverters to refine the overall architecture.
+*   Coordinated with team members on variable load development, ensuring interface compatibility (connectors, test points).
+*   Developed two distinct architecture setups: one feeding power back to AC mains via a grid-tie inverter, and another generating DC voltage back to the PSU.
+*   Expanded systems-level design capabilities in an open-ended project environment.
+
+### **Air Quality Sensor Communication Hardware Upgrade**
+*Junior Clinic Project | UC Berkeley - Civil & Environmental Engineering (Advisor: Chelsea Preble)*
+*   Updated communication hardware for an existing air sensor system used to measure air quality around industrial areas of Oakland.
+*   Researched and identified suitable wireless communication protocols and hardware options to transmit sensor data to a web server.
+*   Considered numerous outside factors, including location constraints, community WiFi access, signal strength in industrial areas, and LoRaWAN gateway availability.
+*   Navigated significant system limitations imposed by battery efficiency, which constrained sampling and data transmission rates, impacting overall system operational life.
+*   Developed a "large system thinking" mindset, identifying factors beyond traditional electrical engineering to create a functional product for public good.
+
+## Coursework & Personal Projects
+
+### **Analog Operational Amplifier Design**
+*Coursework: Analog Circuit Design (ENGR151)*
+*   Designed and physically constructed a fully operational amplifier from scratch using BJTs.
+*   Integrated complex subcircuits: current mirror, level shift, Class AB output stage, and common emitter with degeneration.
+
+### **Microprocessor Systems Control & Integration**
+*Coursework: Electronic and Microprocessor Systems (ENGR155)*
+*   Programmed an STM32L432KC Microcontroller to generate Pulse Width Modulation (PWM) waves for a speaker and interpret pulses from a motor encoder using interrupts.
+*   Integrated systems to read temperature from a DS1722 sensor and display results on an ESP8266 Webserver.
+
+### **Digital Audio Effects Guitar Pedals**
+*Final Project: Electronic and Microprocessor Systems (ENGR155) (Ongoing)*
+*   Developing guitar pedals to add audio effects (degradation chorus, reverb) using an external ADC, FPGA, and STM32 MCU in tandem.
