@@ -9,12 +9,20 @@ This page showcases my hands-on research and engineering project experience, hig
 ### [Cryogenic Characterization of HfO2 Memristors](cryogenic-memristors.qmd)
 *Undergraduate Researcher | University of Tennessee Knoxville (Summer 2025)*
 
-![](images/octopus-pcb/hrs_reset_failure.png){width=10%}
+![](images/octopus-pcb/hrs_reset_failure.png){width=40%}
 
 *   **RESET-Failure Evaluation:** Investigated failure mechanisms in HfO2-based memristors at 77K using a cryogenic probe station and semiconductor analyzer.
 *   **Octopus PCB:** Designed a custom PCB for connecting D-Sub cables to Analog Input/Output Pixies, enabling flexible testing configurations.
 
 [**View Full Project Details**](cryogenic-memristors.qmd)
+
+### [A Tribological Study of The Optimization of Pizza Making](pizza-tribology.qmd)
+*STLE Atlanta Student Poster Session (June 2025)*
+
+*   Investigated the optimum ratio of flour to dough to minimize friction and prevent burning during pizza making.
+*   Presented findings at the Annual 2025 STLE Meeting.
+
+[**View Full Project Details**](pizza-tribology.qmd)
 
 ## Clinic Projects
 
