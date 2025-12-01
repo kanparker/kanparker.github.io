@@ -30,6 +30,7 @@ This page showcases my hands-on research and engineering project experience, hig
 *   Printed disks using a DLP resin printer with commercial ceramic and denture resin materials, testing various surface patterns and additive compositions.
 *   Performed wear tests using the Pin-on-Disk method with a Universal Micro-Tribometer (UMT-2) against 52100 steel balls to compare performance of alumina disks with/without porcelain coating and patterned vs. unpatterned surfaces.
 *   Presented findings at the 2025 Annual STLE Meeting in Atlanta Georgia, giving a talk about the effects on wear resistance and friction that porcelain coatings had on alumina disks.
+*   [Poster of our findings](images/sla-printing/sla_poster.pdf) that we presented at the 2025 Annual STLE Meeting in Atlanta Georgia.
 *   **Collaborators:** Leilani Elkaslasy, Miranda Brandt, Jack Vand der Reis, Ellen (Jinghe) Yu.
 *   **Skills:** Tribology, Data Collection, Data Analysis, Ceramic Processing, Communication, Presentation Design, Presentation Skills, 3D Printing.
 
