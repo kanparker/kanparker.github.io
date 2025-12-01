@@ -25,6 +25,9 @@ Using a B1500A Semiconductor Device Analyzer and a FormFactor PMC200 cryogenic p
 
 [**Download Technical Report (PDF)**](images/octopus-pcb/technical_report.pdf)
 
+### Project Poster
+![](images/octopus-pcb/reset_failure_poster.jpg){width=75%}
+
 ## Octopus PCB
 
 **Skills:** Printed Circuit Board (PCB) Design · 3D Design · PCB Design
