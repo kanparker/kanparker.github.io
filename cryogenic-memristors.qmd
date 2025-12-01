@@ -29,6 +29,8 @@ Using a B1500A Semiconductor Device Analyzer and a FormFactor PMC200 cryogenic p
 
 **Skills:** Printed Circuit Board (PCB) Design · 3D Design · PCB Design
 
+**Authors:** Kanoa Parker, Rocco Febbo, Dr. Garrett Rose
+
 The main function of the PCB is to allow the user to connect two 25 Position D-Sub Male Cable to then be connected to Analog Input Pixie 6365 or a Analog Output Pixie 6738.
 
 ::: {layout-ncol=2}
