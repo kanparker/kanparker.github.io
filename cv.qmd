@@ -5,20 +5,18 @@ title: "Curriculum Vitae"
 ## Education
 
 **Harvey Mudd College** | Claremont, CA
-*Bachelor of Science in Electrical Engineering* | Expected May 2026
+*Bachelor of Science in Engineering* | Expected May 2026
 
 ## Research Experience
 
-**Undergraduate Researcher** | University of Tennessee Knoxville (Summer 202X)
-*Cryogenic Characterization of HfO2 Memristors*
-*   *Supervisor:* Dr. Garrett Rose
+**Undergraduate Researcher** | University of Tennessee, Knoxville (Summer 2025)
+*Cryogenic Characterization of HfO2 Memristors*, Mentor: Rocco Febbo, Supervisor: Dr. Garrett Rose
 
 **Senior Clinic Project Member** | Exolambda (Current)
 *Regenerative Load for HITL Test System*
 
 **Junior Clinic Project Member** | UC Berkeley - Civil & Environmental Engineering (Junior Year)
-*Air Quality Sensor Communication Hardware Upgrade*
-*   *Advisor:* Chelsea Preble
+*Air Quality Sensor Communication Hardware Upgrade*, Client: Dr. Chelsea Preble, UC Berkeley
 
 ## Skills
 

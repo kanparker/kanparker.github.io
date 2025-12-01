@@ -7,7 +7,7 @@ date: 2025-06-01
 **Presented at the Annual 2025 STLE Meeting**  
 *June 2025*
 
-**Authors:** Gordon Krauss, Miranda Brandt, Leilani Elkaslasy, Kanoa Parker
+**Authors:** Dr. Gordon Krauss, Miranda Brandt, Leilani Elkaslasy, Kanoa Parker
 
 ![](images/pizza-tribology/pizza_thumbnail.png){width=25%}
 
