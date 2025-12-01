@@ -97,3 +97,11 @@ This page showcases my hands-on research and engineering project experience, hig
 *   Designed a funnel and rail system to store the balls before they were dispensed into the machine.
 *   Implemented a motor controller and a wheel to vary the speed at which balls were released.
 *   **Skills:** Woodworking, Integrated Circuit Design, Teamwork, Communication, AutoCAD.
+
+### **Remotely Operated Vehicle**
+*Coursework: Introduction to Engineering Systems (ENGR79) (Aug 2023 - Dec 2023)*
+
+*   Designed a robot capable of vertical movement in water in collaboration with another student.
+*   Integrated pressure sensors for depth measurement and thermistors for water temperature monitoring.
+*   Utilized PWM control and motors to adjust the depth of the robot.
+*   **Skills:** Integrated Circuit Design, Soldering, LabVIEW, Communication.
