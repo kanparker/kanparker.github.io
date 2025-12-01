@@ -23,7 +23,7 @@ This page showcases my hands-on research and engineering project experience, hig
 *   Presented findings at the Annual 2025 STLE Meeting.
 
 ### [SLA Additive Manufacturing: A Review of Resin Formulations and Patterning’s Impact on Abrasiveness](sla-printing.qmd)
-*Undergraduate Researcher | Harvey Mudd College (May 2024 - May 2025)*
+*STLE Atlanta Student Poster Session (June 2025)*
 
 ![](images/sla-printing/wear_volume_vs_cycles.png){width=40%}
 
