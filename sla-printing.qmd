@@ -1,0 +1,17 @@
+---
+title: "SLA Additive Manufacturing: A Review of Resin Formulations and Patterning’s Impact on Abrasiveness"
+subtitle: "Undergraduate Research | Harvey Mudd College"
+date: 2025-05-01
+---
+
+**Advisor:** Dr. Gordon Krauss  
+**Collaborators:** Leilani Elkaslasy, Miranda Brandt, Jack Vand der Reis, Ellen (Jinghe) Yu  
+**Dates:** May 2024 - May 2025
+
+This project explores how surface modifications—such as patterning and top-layer doping with ceramic or metal additives—impact the wear resistance, abrasiveness, and sliding friction of components fabricated via stereolithography (SLA)-based additive manufacturing. Disks were printed using a DLP resin printer with commercial ceramic and denture resin materials. Various surface patterns and additive compositions were tested.
+
+Wear tests were performed using the Pin-on-Disk method with a Universal Micro-Tribometer (UMT-2) against 52100 steel balls. The study compared the performance of alumina disks with and without a porcelain coating, evaluated the effects of incorporating porcelain powder into denture resin, and assessed patterned versus unpatterned surfaces.
+
+Findings were presented at the 2025 Annual STLE Meeting in Atlanta Georgia. The talk focused on the effects on wear resistance and friction that porcelain coatings had on alumina disks.
+
+[**Download Student Poster (PDF)**](images/sla-printing/sla_poster.pdf)

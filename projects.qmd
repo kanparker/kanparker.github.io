@@ -22,17 +22,11 @@ This page showcases my hands-on research and engineering project experience, hig
 *   Investigated the optimum ratio of flour to dough to minimize friction and prevent burning during pizza making.
 *   Presented findings at the Annual 2025 STLE Meeting.
 
-### **SLA Additive Manufacturing: A Review of Resin Formulations and Patterning’s Impact on Abrasiveness**
+### [SLA Additive Manufacturing: A Review of Resin Formulations and Patterning’s Impact on Abrasiveness](sla-printing.qmd)
 *Undergraduate Researcher | Harvey Mudd College (May 2024 - May 2025)*
-*Advisor: Dr. Gordon Krauss*
 
-*   Explored how surface modifications—such as patterning and top-layer doping with ceramic or metal additives—impact the wear resistance, abrasiveness, and sliding friction of components fabricated via stereolithography (SLA)-based additive manufacturing.
-*   Printed disks using a DLP resin printer with commercial ceramic and denture resin materials, testing various surface patterns and additive compositions.
-*   Performed wear tests using the Pin-on-Disk method with a Universal Micro-Tribometer (UMT-2) against 52100 steel balls to compare performance of alumina disks with/without porcelain coating and patterned vs. unpatterned surfaces.
-*   Presented findings at the 2025 Annual STLE Meeting in Atlanta Georgia, giving a talk about the effects on wear resistance and friction that porcelain coatings had on alumina disks.
-*   [Poster of our findings](images/sla-printing/sla_poster.pdf) that we presented at the 2025 Annual STLE Meeting in Atlanta Georgia.
-*   **Collaborators:** Leilani Elkaslasy, Miranda Brandt, Jack Vand der Reis, Ellen (Jinghe) Yu.
-*   **Skills:** Tribology, Data Collection, Data Analysis, Ceramic Processing, Communication, Presentation Design, Presentation Skills, 3D Printing.
+*   Investigated the impact of surface modifications and resin formulations on the wear resistance of SLA-printed components.
+*   Presented findings at the 2025 Annual STLE Meeting.
 
 ## Clinic Projects
 
