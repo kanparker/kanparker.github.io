@@ -89,3 +89,11 @@ This page showcases my hands-on research and engineering project experience, hig
 *   Utilized modified pressure sensors as pitot tubes to measure relative velocity.
 *   Employed anemometers to measure wind speed and force sensors to measure drag force.
 *   **Skills:** Integrated Circuit Design, MATLAB, Soldering, Arduino.
+
+### **Automatic Ball Feeder**
+*Coursework: Introduction to Engineering Design (ENGR4) (Sep 2023 - Dec 2023)*
+
+*   In a group of 5 students, constructed a device that would feed baseballs periodically into a Hack Attack Jr. pitching machine.
+*   Designed a funnel and rail system to store the balls before they were dispensed into the machine.
+*   Implemented a motor controller and a wheel to vary the speed at which balls were released.
+*   **Skills:** Woodworking, Integrated Circuit Design, Teamwork, Communication, AutoCAD.
