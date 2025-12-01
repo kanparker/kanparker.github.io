@@ -32,7 +32,7 @@ This page showcases my hands-on research and engineering project experience, hig
 
 ## Clinic Projects
 
-### **Regenerative Load for HITL Test System (Fall 2025)**
+### **Regenerative Load for HITL Test System (Work in Progress - Fall 2025)**
 Client: Exolambda
 
 Students: ..., Kanoa Parker, ...
@@ -50,6 +50,8 @@ My Contributions:
 *   Expanded systems-level design capabilities in an open-ended project environment.
 
 ### **Redesign of Low-Cost Sensors used in Community-engaged Air Pollution Monitoring (Fall 2024)**
+
+![](images/air-quality/sensor_deployment_map.png){width=40%}
 
 Client: UC Berkeley - Civil & Environmental Engineering
 
