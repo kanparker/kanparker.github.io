@@ -81,3 +81,11 @@ This page showcases my hands-on research and engineering project experience, hig
 *   Designed and built an electrocardiogram to measure the electrical activity of the heart.
 *   Used an instrumentation amplifier, high pass filter, low pass filter, and notch filter to process the signal and visualized it on an oscilloscope.
 *   **Skills:** Analog Circuit Design, Oscilloscope, Circuit Design.
+
+### **Autonomous Underwater Vehicle**
+*Coursework: Experimental Engineering (ENGR80) (Jan 2024 - May 2024)*
+
+*   Developed an underwater robot in a team of 4 students to test various nose designs underwater.
+*   Utilized modified pressure sensors as pitot tubes to measure relative velocity.
+*   Employed anemometers to measure wind speed and force sensors to measure drag force.
+*   **Skills:** Integrated Circuit Design, MATLAB, Soldering, Arduino.
