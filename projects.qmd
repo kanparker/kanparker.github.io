@@ -25,6 +25,8 @@ This page showcases my hands-on research and engineering project experience, hig
 ### [SLA Additive Manufacturing: A Review of Resin Formulations and Patterning’s Impact on Abrasiveness](sla-printing.qmd)
 *Undergraduate Researcher | Harvey Mudd College (May 2024 - May 2025)*
 
+![](images/sla-printing/wear_volume_vs_cycles.png){width=40%}
+
 *   Investigated the impact of surface modifications and resin formulations on the wear resistance of SLA-printed components.
 *   Presented findings at the 2025 Annual STLE Meeting.
 
