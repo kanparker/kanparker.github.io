@@ -19,6 +19,8 @@ This page showcases my hands-on research and engineering project experience, hig
 ### [A Tribological Study of The Optimization of Pizza Making](pizza-tribology.qmd)
 *STLE Atlanta Student Poster Session (June 2025)*
 
+![](images/pizza-tribology/pizza_thumbnail.png){width=10%}
+
 *   Investigated the optimum ratio of flour to dough to minimize friction and prevent burning during pizza making.
 *   Presented findings at the Annual 2025 STLE Meeting.
 
