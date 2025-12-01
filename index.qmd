@@ -9,13 +9,13 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/your_profile # REPLACE with your LinkedIn URL
+      href: https://linkedin.com/in/kanoa-parker/ # REPLACE with your LinkedIn URL
     - icon: github
       text: Github
-      href: https://github.com/your_profile # REPLACE with your GitHub URL
+      href: https://github.com/kanparker # REPLACE with your GitHub URL
     - icon: envelope
       text: Email
-      href: mailto:your.email@example.com # REPLACE with your email address
+      href: mailto:kanoa.parker@gmail.com # REPLACE with your email address
 ---
 
 ## About Me
