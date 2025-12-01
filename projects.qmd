@@ -32,8 +32,16 @@ This page showcases my hands-on research and engineering project experience, hig
 
 ## Clinic Projects
 
-### **Regenerative Load for HITL Test System**
-*Senior Clinic Project | Exolambda (Current)*
+### **Regenerative Load for HITL Test System (Fall 2025)**
+Client: Exolambda
+
+Students: ..., Kanoa Parker, ...
+
+Advisor: ...
+
+Project Liasons: ...
+
+My Contributions:
 
 *   Collaborating with a team to design and build a regenerative load for a Hardware-in-the-Loop (HITL) test system, requiring a minimum of three variable loads at 48 V and 10 A capacity.
 *   Heavily involved in the physical building and testing of regenerative aspects, utilizing buck and boost converters and grid-tie inverters to refine the overall architecture.
@@ -41,8 +49,19 @@ This page showcases my hands-on research and engineering project experience, hig
 *   Developed two distinct architecture setups: one feeding power back to AC mains via a grid-tie inverter, and another generating DC voltage back to the PSU.
 *   Expanded systems-level design capabilities in an open-ended project environment.
 
-### **Air Quality Sensor Communication Hardware Upgrade**
-*Junior Clinic Project | UC Berkeley - Civil & Environmental Engineering (Advisor: Chelsea Preble)*
+### **Redesign of Low-Cost Sensors used in Community-engaged Air Pollution Monitoring (Fall 2024)**
+
+Client: UC Berkeley - Civil & Environmental Engineering
+
+Students: Zhian Zhou, Carmen Horenstein, Madeleine Kan, Thomas Lilygren, Matthew Molinar, Julia Manese, Megan Kho, Kanoa Parker, Marcos Ng Carrion 
+
+Advisor: Dr. Yifan Wu
+
+Project Liaisons: Dr. Chelsea Preble, Dr. Tom Kirchstetter
+
+[**Download Project Poster (PDF)**](images/air-quality/uc_berkeley_air_quality_poster.pdf)
+
+My Contributions:
 
 * Updated communication hardware for an existing air sensor system used to measure air quality around industrial areas of Oakland.
 * Researched and identified suitable wireless communication protocols and hardware options to transmit sensor data to a web server.
@@ -51,10 +70,14 @@ This page showcases my hands-on research and engineering project experience, hig
 * Developed a "large system thinking" mindset, identifying factors beyond traditional electrical engineering to create a functional product for public good.
 
 ## Coursework & Personal Projects
+### **Digital Audio Effects Guitar Pedals**
+*Final Project: Electronic and Microprocessor Systems (ENGR155, Fall 2025)*
+
+* Developing guitar pedals to add audio effects (degradation chorus, reverb) using an external ADC, FPGA, and STM32 MCU in tandem.
+
 
 ### **Analog Operational Amplifier Design**
-
-*Coursework: Analog Circuit Design (ENGR151)*
+*Final Project: Analog Circuit Design (ENGR151, Spring 2025)*
 
 *(Collaborator: Slader Spoor)*
 
@@ -62,19 +85,8 @@ This page showcases my hands-on research and engineering project experience, hig
 *   Integrated key subcircuits including a current mirror for biasing, an emitter follower for buffering, a Class AB output stage for high-fidelity signal delivery, and a common emitter with degeneration for stable gain.
 *   Achieved critical design objectives: high-impedance differential inputs, low output impedance, and high DC gain, demonstrating proficiency in fundamental analog circuit design principles.
 
-### **Microprocessor Systems Control & Integration**
-*Coursework: Electronic and Microprocessor Systems (ENGR155)*
-
-* Programmed an STM32L432KC Microcontroller to generate Pulse Width Modulation (PWM) waves for a speaker and interpret pulses from a motor encoder using interrupts.
-* Integrated systems to read temperature from a DS1722 sensor and display results on an ESP8266 Webserver.
-
-### **Digital Audio Effects Guitar Pedals**
-*Final Project: Electronic and Microprocessor Systems (ENGR155) (Ongoing)*
-
-* Developing guitar pedals to add audio effects (degradation chorus, reverb) using an external ADC, FPGA, and STM32 MCU in tandem.
-
 ### **Electrocardiogram**
-*Final Project: Electronic and Magnetic Circuits and Devices (ENGR84) (Oct 2024 - Dec 2024)*
+*Final Project: Electronic and Magnetic Circuits and Devices (ENGR084, Fall 2024)*
 
 *(Collaborator: Caiya Coggshall)*
 
@@ -83,7 +95,7 @@ This page showcases my hands-on research and engineering project experience, hig
 *   **Skills:** Analog Circuit Design, Oscilloscope, Circuit Design.
 
 ### **Autonomous Underwater Vehicle**
-*Coursework: Experimental Engineering (ENGR80) (Jan 2024 - May 2024)*
+*Final Project: Experimental Engineering (ENGR080, Spring 2024)*
 
 *   Developed an underwater robot in a team of 4 students to test various nose designs underwater.
 *   Utilized modified pressure sensors as pitot tubes to measure relative velocity.
@@ -91,7 +103,7 @@ This page showcases my hands-on research and engineering project experience, hig
 *   **Skills:** Integrated Circuit Design, MATLAB, Soldering, Arduino.
 
 ### **Automatic Ball Feeder**
-*Coursework: Introduction to Engineering Design (ENGR4) (Sep 2023 - Dec 2023)*
+*Final Project: Introduction to Engineering Design (ENGR004, Fall 2024)*
 
 *   In a group of 5 students, constructed a device that would feed baseballs periodically into a Hack Attack Jr. pitching machine.
 *   Designed a funnel and rail system to store the balls before they were dispensed into the machine.
@@ -99,7 +111,7 @@ This page showcases my hands-on research and engineering project experience, hig
 *   **Skills:** Woodworking, Integrated Circuit Design, Teamwork, Communication, AutoCAD.
 
 ### **Remotely Operated Vehicle**
-*Coursework: Introduction to Engineering Systems (ENGR79) (Aug 2023 - Dec 2023)*
+*Final Project: Introduction to Engineering Systems (ENGR079, Fall 2023)*
 
 *   Designed a robot capable of vertical movement in water in collaboration with another student.
 *   Integrated pressure sensors for depth measurement and thermistors for water temperature monitoring.
