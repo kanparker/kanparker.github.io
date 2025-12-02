@@ -20,7 +20,7 @@ about:
 
 ## About Me
 
-I am a final-year Electrical Engineering undergraduate at Harvey Mudd College, motivated by the principle of using thoughtful, informed systems design to address pressing systemic challenges. My core focus is the escalating energy demands of modern computation. Dedicated to creating **scalable and sustainable solutions**, my research centers on **Power Electronics and Integrated Circuit (IC) Design**, specifically developing efficient, reliable hardware architectures for AI and data centers.
+I am a senior in Electrical Engineering at [Harvey Mudd College](https://www.hmc.edu), motivated by the principle of using thoughtful, informed systems design to address pressing systemic challenges. My core focus is the escalating energy demands of modern computation. Dedicated to creating **scalable and sustainable solutions**, my research centers on **Power Electronics and Integrated Circuit (IC) Design**, specifically developing efficient, reliable hardware architectures for AI and data centers.
 
 My background spans the hardware stack: from analyzing **device physics** (characterizing memristors at 77K) to building **system-level power stages** (designing regenerative loads for HITL testing).
 
