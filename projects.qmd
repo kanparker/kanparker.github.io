@@ -14,21 +14,14 @@ This page showcases my hands-on research and engineering project experience, hig
 *   **RESET-Failure Evaluation:** Investigated failure mechanisms in HfO₂-based memristors at 77K using a cryogenic probe station and semiconductor analyzer.
 *   **Octopus PCB:** Designed a custom PCB for connecting D-Sub cables to Analog Input/Output Pixies, enabling flexible testing configurations.
 
-### [A Tribological Study of The Optimization of Pizza Making](pizza-tribology.qmd)
-*STLE Atlanta Student Poster Session (June 2025)*
-
-![](images/pizza-tribology/pizza_thumbnail.png){width=30%}
-
-*   Investigated the optimum ratio of flour to dough to minimize friction and prevent burning during pizza making.
-*   Presented findings at the Annual 2025 STLE Meeting.
-
-### [SLA Additive Manufacturing: A Review of Resin Formulations and Patterning’s Impact on Abrasiveness](sla-printing.qmd)
-*STLE Atlanta Student Poster Session (June 2025)*
+### [Tribology & Surface Interaction Studies](tribology-studies.qmd)
+*Undergraduate Research | Harvey Mudd College & STLE (2025)*
 
 ![](images/sla-printing/wear_volume_vs_cycles.png){width=40%}
 
-*   Investigated the impact of surface modifications and resin formulations on the wear resistance of SLA-printed components.
-*   Presented findings at the 2025 Annual STLE Meeting.
+*   **Modification of Abrasiveness of SLA Components:** Studied how resin formulation impacts the abrasive properties of 3D printed parts.
+*   **SLA Additive Manufacturing Review:** Reviewed the impact of resin formulations and surface patterning on abrasiveness.
+*   **Optimization of Pizza Making:** Investigated the tribological properties of flour-dough interfaces to optimize sliding and reduce burning.
 
 ## Engineering Clinic Projects
 

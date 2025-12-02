@@ -27,8 +27,8 @@ title: "Curriculum Vitae"
 
 ## Publications & Presentations
 
-*   **Kanoa Parker**, Rocco Febbo, Dr. Garrett Rose, "RESET-Failure of HfO₂-Based Memristors Evaluation at Cryogenic Temperatures", Summer Research Scholars (SRS) Symposium, University of Tennessee Knoxville, July 2025. [https://symposium.foragerone.com/utk-summer-research-scholars-symposium-2025/presentations/74861](https://symposium.foragerone.com/utk-summer-research-scholars-symposium-2025/presentations/74861)
-*   **Kanoa Parker**, "Modification of Abrasiveness of Additive Manufacturing (SLA) Produced Components through Resin Formulation", STLE Atlanta SESSION 5F Tribotesting I, Atlanta, GA, June 2025.
-*   Miranda Brandt, **Kanoa Parker**, Leilani Elkaslasy, "SLA Additive Manufacturing: A Review of Resin Formulations and Patterning’s Impact on Abrasiveness", STLE Atlanta Student Poster Session, Atlanta, GA, June 2025.
-*   Leilani Elkaslasy, **Kanoa Parker**, Miranda Brandt, "A Tribological Study for the Optimization of Pizza Making", STLE Atlanta Student Poster Session, Atlanta, GA, June 2025.
+*   **Kanoa Parker**, Rocco Febbo, Garrett Rose, "RESET-Failure of HfO₂-Based Memristors Evaluation at Cryogenic Temperatures", Summer Research Scholars (SRS) Symposium, University of Tennessee Knoxville, July 2025. [View Poster](https://symposium.foragerone.com/utk-summer-research-scholars-symposium-2025/presentations/74861)
+*   **Kanoa Parker**, Miranda Brandt, Leilani Elkaslasy, Gordon Krauss, "Modification of Abrasiveness of Additive Manufacturing (SLA) Produced Components through Resin Formulation", STLE Atlanta SESSION 5F Tribotesting I, Atlanta, GA, May 2025. [Download PDF](images/sla-printing/Parker_STLE_compressed.pdf)
+*   Gordon Krauss, Miranda Brandt, Leilani Elkaslasy, **Kanoa Parker**, "SLA Additive Manufacturing: A Review of Resin Formulations and Patterning’s Impact on Abrasiveness", STLE Atlanta Student Poster Session, Atlanta, GA, May 2025.
+*   Gordon Krauss, Miranda Brandt, Leilani Elkaslasy, **Kanoa Parker**, "A Tribological Study for the Optimization of Pizza Making", STLE Atlanta Student Poster Session, Atlanta, GA, May 2025.
 *   Zhian Zhou, Carmen Horenstein, Thomas Lilygren, Matthew Molinar, and Madeleine Kan, Megan Kho, Julia Manese, **Kanoa Parker**, Yifan Wu, “Redesign of Low-cost Sensors Used in Community-engaged Air Pollution Monitoring”, Harvey Mudd College Project Day, Claremont, CA, May 2025.

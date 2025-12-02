@@ -1,0 +1,48 @@
+---
+title: "Tribology & Surface Interaction Studies"
+subtitle: "Undergraduate Research | Harvey Mudd College & STLE"
+---
+
+## Modification of Abrasiveness of Additive Manufacturing (SLA) Produced Components through Resin Formulation
+
+*STLE Atlanta SESSION 5F Tribotesting I (May 2025)*
+
+**Students:** Kanoa Parker, Miranda Brandt, Leilani Elkaslasy
+
+**Advisor:** Prof. Gordon Krauss
+
+This study investigates modifying the friction and wear resistance of ceramic components produced via Digital Light Processing (DLP) additive manufacturing. Specifically, it explores how the inclusion of SLA resin additives and surface modifications can alter the abrasiveness of printed ceramic surfaces. The research hypothesizes that applying a top layer of porcelain to the ceramic substrate can effectively tune these tribological properties. Experimental results indicated that the porcelain coating significantly **extended the duration of surface abrasiveness** compared to the uncoated control, which lost its abrasive properties rapidly. This implies that low-cost post-processing can effectively tune the mechanical lifetime of printed parts, enabling the rapid prototyping of custom, durable abrasive tools and high-friction interfaces for custom hardware applications.
+
+[**Download Slides (PDF)**](images/sla-printing/Parker_STLE_compressed.pdf)
+
+## SLA Additive Manufacturing: A Review of Resin Formulations and Patterning’s Impact on Abrasiveness
+
+*STLE Atlanta Student Poster Session (May 2025)*
+
+**Students:** Miranda Brandt, Leilani Elkaslasy, Kanoa Parker
+
+**Advisor:** Prof. Gordon Krauss
+
+![](images/sla-printing/wear_volume_vs_cycles.png){width=50%}
+
+This project explores how surface modifications—such as patterning and top-layer doping with ceramic or metal additives—impact the wear resistance, abrasiveness, and sliding friction of components fabricated via stereolithography (SLA)-based additive manufacturing. Disks were printed using a DLP resin printer with commercial ceramic and denture resin materials. Various surface patterns and additive compositions were tested.
+
+Wear tests were performed using the Pin-on-Disk method with a Universal Micro-Tribometer (UMT-2) against 52100 steel balls. The study compared the performance of alumina disks with and without a porcelain coating, evaluated the effects of incorporating porcelain powder into denture resin, and assessed patterned versus unpatterned surfaces.
+
+Findings were presented at the 2025 Annual STLE Meeting in Atlanta Georgia. The talk focused on the effects on wear resistance and friction that porcelain coatings had on alumina disks.
+
+[**Download Student Poster (PDF)**](images/sla-printing/sla_poster.pdf)
+
+## A Tribological Study for the Optimization of Pizza Making
+
+*STLE Atlanta Student Poster Session (May 2025)*
+
+**Authors:** Miranda Brandt, Leilani Elkaslasy, Kanoa Parker
+
+**Advisor:** Prof. Gordon Krauss
+
+![](images/pizza-tribology/pizza_thumbnail.png){width=30%}
+
+Pizza makers have consistently faced a challenge when dusting pizza dough with flour. Too much flour and the pizza burns in the oven, not enough and the dough does not slide off the peel. To find the answer to this dilemma varying amounts of flour were added to pizza dough and the effect on the dough's ability to slide on a surface effectively was examined. Through this, an optimum ratio of semolina flour to pizza dough was determined in order to give pizza makers everywhere a reliable measurement of flour they could use to overcome friction without inducing burning.
+
+[**Download Student Poster (PDF)**](images/pizza-tribology/tribological_study_pizza_making.pdf)
