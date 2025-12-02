@@ -2,7 +2,7 @@
 
 ## Site Content Workflow (Quarto)
 
-This site is built using [Quarto](https://quarto.org/). The workflow involves rendering content locally and then pushing the generated static files to GitHub Pages.
+This site is built using [Quarto](https://quarto.org/) and utilizes a "render to root" workflow for GitHub Pages hosted on the `main` branch. The workflow involves rendering content locally and then pushing the generated static files to GitHub Pages.
 
 1.  **Edit Source Files:** Make changes to the `.qmd` (Quarto Markdown) source files (e.g., `index.qmd`, `projects.qmd`).
 2.  **Render Site Locally:** After making changes, generate the static HTML files by running Quarto's render command in your terminal from the root of the repository:
