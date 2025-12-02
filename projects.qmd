@@ -7,7 +7,7 @@ This page showcases my hands-on research and engineering project experience, hig
 ## Academic Research
 
 ### [Cryogenic Characterization of HfO₂ Memristors](cryogenic-memristors.qmd)
-*Undergraduate Researcher | University of Tennessee Knoxville (Summer 2025)*
+*Undergraduate Researcher | University of Tennessee, Knoxville (Summer 2025)*
 
 ![](images/octopus-pcb/hrs_reset_failure.png){width=40%}
 
@@ -15,7 +15,7 @@ This page showcases my hands-on research and engineering project experience, hig
 *   **Octopus PCB:** Designed a custom PCB for connecting D-Sub cables to Analog Input/Output Pixies, enabling flexible testing configurations.
 
 ### [Tribology & Surface Interaction Studies](tribology-studies.qmd)
-*Undergraduate Research | Harvey Mudd College & STLE (2025)*
+*Undergraduate Researcher | Harvey Mudd College (Summer 2024 - Spring 2025)*
 
 ![](images/sla-printing/wear_volume_vs_cycles.png){width=40%}
 
@@ -64,11 +64,12 @@ My Contributions:
 * Navigated significant system limitations imposed by battery efficiency, which constrained sampling and data transmission rates, impacting overall system operational life.
 * Developed a "large system thinking" mindset, identifying factors beyond traditional electrical engineering to create a functional product for public good.
 
-## Coursework & Personal Projects
+## Coursework & Final Projects
 ### **Digital Audio Effects Guitar Pedals (Work in Progress)**
-*Final Project: Electronic and Microprocessor Systems (ENGR155, Fall 2025)*
+*Course: Electronic and Microprocessor Systems (ENGR155, Fall 2025)*
 
 * Developing guitar pedals to add audio effects (degradation chorus, reverb) using an external ADC, FPGA, and STM32 MCU in tandem.
+*   **Skills:** SystemVerilog, C, ARM Assembly, FPGA (Lattice iCE40), Microcontrollers (STM32), DSP, SPI/I2S, Hardware-Software Co-Design.
 
 #### Electronic and Microprocessor Systems (ENGR155) Lab Assignments
 [Lab Assignments](https://kanparker.github.io/e155-portfolio/labss.html)
@@ -76,16 +77,17 @@ My Contributions:
 *Note: These assignments required students to utilize LLMs and critically reflect on their performance and utility.*
 
 ### **Analog Operational Amplifier Design**
-*Final Project: Analog Circuit Design (ENGR151, Spring 2025)*
+*Course: Analog Circuit Design (ENGR151, Spring 2025)*
 
 *(Collaborator: Slader Spoor)*
 
 *   Designed and constructed a fully operational amplifier from discrete 2N3904 and 2N3906 BJTs, utilizing a suite of passive components (resistors, diodes, capacitors).
 *   Integrated key subcircuits including a current mirror for biasing, an emitter follower for buffering, a Class AB output stage for high-fidelity signal delivery, and a common emitter with degeneration for stable gain.
 *   Achieved critical design objectives: high-impedance differential inputs, low output impedance, and high DC gain, demonstrating proficiency in fundamental analog circuit design principles.
+*   **Skills:** Analog Circuit Design, BJT Amplifiers, Current Mirrors, Differential Pairs, LTSpice, Oscilloscope, Feedback Stability.
 
 ### **Electrocardiogram**
-*Final Project: Electronic and Magnetic Circuits and Devices (ENGR084, Fall 2024)*
+*Course: Electronic and Magnetic Circuits and Devices (ENGR084, Fall 2024)*
 
 *(Collaborator: Caiya Coggshall)*
 
@@ -94,7 +96,7 @@ My Contributions:
 *   **Skills:** Analog Circuit Design, Oscilloscope, Circuit Design.
 
 ### **Autonomous Underwater Vehicle**
-*Final Project: Experimental Engineering (ENGR080, Spring 2024)*
+*Course: Experimental Engineering (ENGR080, Spring 2024)*
 
 *   Developed an underwater robot in a team of 4 students to test various nose designs underwater.
 *   Utilized modified pressure sensors as pitot tubes to measure relative velocity.
@@ -102,15 +104,15 @@ My Contributions:
 *   **Skills:** Integrated Circuit Design, MATLAB, Soldering, Arduino.
 
 ### **Automatic Ball Feeder**
-*Final Project: Introduction to Engineering Design (ENGR004, Fall 2024)*
+*Course: Introduction to Engineering Design (ENGR004, Fall 2024)*
 
 *   In a group of 5 students, constructed a device that would feed baseballs periodically into a Hack Attack Jr. pitching machine.
 *   Designed a funnel and rail system to store the balls before they were dispensed into the machine.
 *   Implemented a motor controller and a wheel to vary the speed at which balls were released.
 *   **Skills:** Woodworking, Integrated Circuit Design, Teamwork, Communication, AutoCAD.
 
-### **Remotely Operated Vehicle**
-*Final Project: Introduction to Engineering Systems (ENGR079, Fall 2023)*
+### **Remotely Operated Underwater Vehicle**
+*Course: Introduction to Engineering Systems (ENGR079, Fall 2023)*
 
 *   Designed a robot capable of vertical movement in water in collaboration with another student.
 *   Integrated pressure sensors for depth measurement and thermistors for water temperature monitoring.

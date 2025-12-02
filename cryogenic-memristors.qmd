@@ -1,10 +1,10 @@
 ---
 title: "Cryogenic Characterization of HfO2 Memristors"
-subtitle: "Research & Engineering Projects at University of Tennessee"
+subtitle: "Research & Engineering Projects at University of Tennessee, Knoxville"
 date: 2025-07-31
 ---
 
-**Associated with Tickle College of Engineering at the University of Tennessee**  
+**Associated with Tickle College of Engineering at the University of Tennessee, Knoxville**  
 *June 2025 - July 2025*
 
 This page details my work as an Undergraduate Researcher under Dr. Garrett Rose, focusing on low-temperature memory design for quantum and neuromorphic computing applications. The project involved two main components: experimental evaluation of memristor failure at cryogenic temperatures and the design of a custom PCB ("Octopus PCB").
