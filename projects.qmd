@@ -7,9 +7,10 @@ This page showcases my hands-on research and engineering project experience, hig
 ## Academic Research
 
 ### [Cryogenic Characterization of HfO₂ Memristors](cryogenic-memristors.qmd)
-*Undergraduate Researcher | University of Tennessee, Knoxville (Summer 2025)*
+*NSF REU - Undergraduate Researcher | University of Tennessee, Knoxville (Summer 2025)*
 
-![](images/octopus-pcb/hrs_reset_failure.png){width=40%}
+
+[![](images/octopus-pcb/reset_failure_poster.jpg){width=40%}](images/octopus-pcb/reset_failure_poster.jpg)
 
 *   **RESET-Failure Evaluation:** Investigated failure mechanisms in HfO₂-based memristors at 77K using a cryogenic probe station and semiconductor analyzer.
 *   **Octopus PCB:** Designed a custom PCB for connecting D-Sub cables to Analog Input/Output Pixies, enabling flexible testing configurations.
@@ -17,7 +18,7 @@ This page showcases my hands-on research and engineering project experience, hig
 ### [Tribology & Surface Interaction Studies](tribology-studies.qmd)
 *Undergraduate Researcher | Harvey Mudd College (Summer 2024 - Spring 2025)*
 
-![](images/sla-printing/wear_volume_vs_cycles.png){width=40%}
+![](images/sla-printing/Parker_STLE_thumbnail.jpg){width=40%}
 
 *   **Modification of Abrasiveness of SLA Components:** Studied how resin formulation impacts the abrasive properties of 3D printed parts.
 *   **SLA Additive Manufacturing Review:** Reviewed the impact of resin formulations and surface patterning on abrasiveness.
@@ -25,8 +26,10 @@ This page showcases my hands-on research and engineering project experience, hig
 
 ## Engineering Clinic Projects
 
+*A signature program at Harvey Mudd, Engineering Clinic is a year-long capstone sponsored by industry, government, academic institutions, and non-profit foundations. Student teams function as professional consultants, managing real-world budgets and deliverables to design, build, and test field-ready systems for their clients, directly applying academic theory to professional engineering practice. [More information](https://www.hmc.edu/clinic/)*
+
 ### **Regenerative Load for HITL Test System (Work in Progress - Fall 2025)**
-Client: Exolambda
+Sponsor: [Exolambda](https://www.exolambda.com) - Aerospace Engineering
 
 Students: ..., Kanoa Parker, ...
 
@@ -46,7 +49,7 @@ My Contributions:
 
 ![](images/air-quality/sensor_deployment_map.png){width=40%}
 
-Client: UC Berkeley - Civil & Environmental Engineering
+Sponsor: UC Berkeley - Department of Civil & Environmental Engineering
 
 Students: Zhian Zhou, Carmen Horenstein, Madeleine Kan, Thomas Lilygren, Matthew Molinar, Julia Manese, Megan Kho, Kanoa Parker, Marcos Ng Carrion 
 
@@ -95,14 +98,6 @@ My Contributions:
 *   Used an instrumentation amplifier, high pass filter, low pass filter, and notch filter to process the signal and visualized it on an oscilloscope.
 *   **Skills:** Analog Circuit Design, Oscilloscope, Circuit Design.
 
-### **Autonomous Underwater Vehicle**
-*Course: Experimental Engineering (ENGR080, Spring 2024)*
-
-*   Developed an underwater robot in a team of 4 students to test various nose designs underwater.
-*   Utilized modified pressure sensors as pitot tubes to measure relative velocity.
-*   Employed anemometers to measure wind speed and force sensors to measure drag force.
-*   **Skills:** Integrated Circuit Design, MATLAB, Soldering, Arduino.
-
 ### **Automatic Ball Feeder**
 *Course: Introduction to Engineering Design (ENGR004, Fall 2024)*
 
@@ -110,6 +105,14 @@ My Contributions:
 *   Designed a funnel and rail system to store the balls before they were dispensed into the machine.
 *   Implemented a motor controller and a wheel to vary the speed at which balls were released.
 *   **Skills:** Woodworking, Integrated Circuit Design, Teamwork, Communication, AutoCAD.
+
+### **Autonomous Underwater Vehicle**
+*Course: Experimental Engineering (ENGR080, Spring 2024)*
+
+*   Developed an underwater robot in a team of 4 students to test various nose designs underwater.
+*   Utilized modified pressure sensors as pitot tubes to measure relative velocity.
+*   Employed anemometers to measure wind speed and force sensors to measure drag force.
+*   **Skills:** Integrated Circuit Design, MATLAB, Soldering, Arduino.
 
 ### **Remotely Operated Underwater Vehicle**
 *Course: Introduction to Engineering Systems (ENGR079, Fall 2023)*

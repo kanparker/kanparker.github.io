@@ -1,13 +1,10 @@
 ---
 title: "Cryogenic Characterization of HfO2 Memristors"
-subtitle: "Research & Engineering Projects at University of Tennessee, Knoxville"
+subtitle: "NSF REU at University of Tennessee, Knoxville (Summer 2025)"
 date: 2025-07-31
 ---
 
-**Associated with Tickle College of Engineering at the University of Tennessee, Knoxville**  
-*June 2025 - July 2025*
-
-This page details my work as an Undergraduate Researcher under Dr. Garrett Rose, focusing on low-temperature memory design for quantum and neuromorphic computing applications. The project involved two main components: experimental evaluation of memristor failure at cryogenic temperatures and the design of a custom PCB ("Octopus PCB").
+This page details my work as an Undergraduate Researcher mentored by Rocco Febbo and Dr. Garrett Rose, focusing on low-temperature memory design for quantum and neuromorphic computing applications. The project involved two main components: experimental evaluation of memristor failure at cryogenic temperatures and the design of a custom PCB ("Octopus PCB").
 
 ## RESET-Failure Evaluation of HfO₂-Based Memristors at Cryogenic Temperatures
 
@@ -17,7 +14,9 @@ This page details my work as an Undergraduate Researcher under Dr. Garrett Rose,
 
 **Mentors:** Rocco Febbo, Dr. Garrett Rose
 
-![](images/octopus-pcb/hrs_reset_failure.png){width=25%}
+[![](images/octopus-pcb/reset_failure_poster.jpg){width=60%}](images/octopus-pcb/reset_failure_poster.jpg)
+
+[**Download Technical Report (PDF)**](images/octopus-pcb/technical_report.pdf)
 
 Memristors are two-terminal memory devices with programmable resistance, first theorized by Leon Chua in 1971 and fabricated by Hewlett-Packard in 2008. Recent advancements in manufacturing have made memristors more accessible. With the integration of CMOS, there are hopes of developing an in-memory computation system, particularly for environments requiring cryogenic operation, such as space or quantum computing systems.
 
@@ -25,10 +24,6 @@ This study investigates RESET failure in HfO₂-based memristors at cryogenic te
 
 Using a B1500A Semiconductor Device Analyzer and a FormFactor PMC200 cryogenic probe station, the applied RESET voltage was progressively lowered at 70 K until failure occurred. This data was used to refine an existing Verilog-A model, updating it to account for cryogenic behavior. The enhanced model supports the design of more robust memory systems for low-temperature applications. Results predict a decrease in memristor resistance and an increase in power consumption at cryogenic temperatures.
 
-[**Download Technical Report (PDF)**](images/octopus-pcb/technical_report.pdf)
-
-### Project Poster
-![](images/octopus-pcb/reset_failure_poster.jpg){width=75%}
 
 ## Octopus PCB
 
@@ -41,13 +36,13 @@ Using a B1500A Semiconductor Device Analyzer and a FormFactor PMC200 cryogenic p
 The main function of the PCB is to allow the user to connect two 25 Position D-Sub Male Cable to then be connected to Analog Input Pixie 6365 or a Analog Output Pixie 6738.
 
 ::: {layout-ncol=2}
-![Final PCB on Mounting Board](images/octopus-pcb/pcb_mounted.jpg)
+[![Final PCB on Mounting Board](images/octopus-pcb/pcb_mounted.jpg)](images/octopus-pcb/pcb_mounted.jpg)
 
-![Outline of PCB](images/octopus-pcb/pcb_outline.jpg)
+[![Outline of PCB](images/octopus-pcb/pcb_outline.jpg)](images/octopus-pcb/pcb_outline.jpg)
 :::
 
 ::: {layout-ncol=1}
-![3D Rendering of PCB](images/octopus-pcb/pcb_3d_render.jpg)
+[![3D Rendering of PCB](images/octopus-pcb/pcb_3d_render.jpg)](images/octopus-pcb/pcb_3d_render.jpg)
 :::
 
 [**Download Schematic (PDF)**](images/octopus-pcb/octopus_schematic.pdf)

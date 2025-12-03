@@ -11,6 +11,8 @@ subtitle: "Undergraduate Research | Harvey Mudd College & STLE"
 
 **Advisor:** Prof. Gordon Krauss
 
+![](images/sla-printing/Parker_STLE_thumbnail.jpg){width=40%}
+
 This study investigates modifying the friction and wear resistance of ceramic components produced via Digital Light Processing (DLP) additive manufacturing. Specifically, it explores how the inclusion of SLA resin additives and surface modifications can alter the abrasiveness of printed ceramic surfaces. The research hypothesizes that applying a top layer of porcelain to the ceramic substrate can effectively tune these tribological properties. Experimental results indicated that the porcelain coating significantly **extended the duration of surface abrasiveness** compared to the uncoated control, which lost its abrasive properties rapidly. This implies that low-cost post-processing can effectively tune the mechanical lifetime of printed parts, enabling the rapid prototyping of custom, durable abrasive tools and high-friction interfaces for custom hardware applications.
 
 [**Download Slides (PDF)**](images/sla-printing/Parker_STLE_compressed.pdf)
