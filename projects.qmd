@@ -10,7 +10,7 @@ This page showcases my hands-on research and engineering project experience, hig
 *NSF REU - Undergraduate Researcher | University of Tennessee, Knoxville (Summer 2025)*
 
 
-[![](images/octopus-pcb/reset_failure_poster.jpg){width=40%}](images/octopus-pcb/reset_failure_poster.jpg)
+[![](images/octopus-pcb/reset_failure_poster.jpg){width=40%}](images/octopus-pcb/reset_failure_poster_large.png)_
 
 *   **RESET-Failure Evaluation:** Investigated failure mechanisms in HfO₂-based memristors at 77K using a cryogenic probe station and semiconductor analyzer.
 *   **Octopus PCB:** Designed a custom PCB for connecting D-Sub cables to Analog Input/Output Pixies, enabling flexible testing configurations.
@@ -18,7 +18,7 @@ This page showcases my hands-on research and engineering project experience, hig
 ### [Tribology & Surface Interaction Studies](tribology-studies.qmd)
 *Undergraduate Researcher | Harvey Mudd College (Summer 2024 - Spring 2025)*
 
-![](images/sla-printing/Parker_STLE_thumbnail.jpg){width=40%}
+[![](images/sla-printing/Parker_STLE_thumbnail.jpg){width=40%}](images/sla-printing/Parker_STLE_thumbnail.jpg)
 
 *   **Modification of Abrasiveness of SLA Components:** Studied how resin formulation impacts the abrasive properties of 3D printed parts.
 *   **SLA Additive Manufacturing Review:** Reviewed the impact of resin formulations and surface patterning on abrasiveness.
@@ -49,7 +49,7 @@ My Contributions:
 
 ![](images/air-quality/sensor_deployment_map.png){width=40%}
 
-Sponsor: UC Berkeley - Department of Civil & Environmental Engineering
+Sponsor: UC Berkeley - [Department of Civil & Environmental Engineering](https://ce.berkeley.edu)
 
 Students: Zhian Zhou, Carmen Horenstein, Madeleine Kan, Thomas Lilygren, Matthew Molinar, Julia Manese, Megan Kho, Kanoa Parker, Marcos Ng Carrion 
 

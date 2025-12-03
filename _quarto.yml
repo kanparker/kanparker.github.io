@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: .
+  render:
+    - "!GEMINI.md"
 
 website:
   title: "Kanoa Parker | EE PhD Portfolio"

@@ -14,7 +14,7 @@ This page details my work as an Undergraduate Researcher mentored by Rocco Febbo
 
 **Mentors:** Rocco Febbo, Dr. Garrett Rose
 
-[![](images/octopus-pcb/reset_failure_poster.jpg){width=60%}](images/octopus-pcb/reset_failure_poster.jpg)
+[![](images/octopus-pcb/reset_failure_poster.jpg){width=60%}](images/octopus-pcb/reset_failure_poster_large.png)
 
 [**Download Technical Report (PDF)**](images/octopus-pcb/technical_report.pdf)
 
