@@ -102,7 +102,7 @@
     "href": "cv.html#activities-interests",
     "title": "Curriculum Vitae",
     "section": "Activities & Interests",
-    "text": "Activities & Interests\nMen’s Rugby, Claremont Colleges\nPlayer, Fall 2022 - Present\nDevoted 15+ hours/week during the season to train and travel for intercollegiate competition while maintaing a full-time academic schedule."
+    "text": "Activities & Interests\nMen’s Rugby, Claremont Colleges\nStudent Athlete, Fall 2022 - Present\nDevoted 15+ hours/week during the season to train and travel for intercollegiate competition while maintaing a full-time academic schedule."
   },
   {
     "objectID": "coursework.html",
@@ -166,5 +166,12 @@
     "title": "Research & Projects",
     "section": "Coursework & Final Projects",
     "text": "Coursework & Final Projects\nDigital Audio Effects Guitar Pedals\nDeveloping guitar pedals to add audio effects (degradation chorus, reverb) using an external ADC, FPGA, and STM32 MCU in tandem.\nAnalog Operational Amplifier Design\nDesigned and constructed a fully operational amplifier from discrete 2N3904 and 2N3906 BJTs, utilizing a suite of passive components.\nElectrocardiogram\nDesigned and built an electrocardiogram to measure the electrical activity of the heart, using an instrumentation amplifier and filters.\nAutomatic Ball Feeder\nConstructed a device that feeds baseballs periodically into a pitching machine, including a funnel, rail system, and motor control.\nAutonomous Underwater Vehicle\nDeveloped an underwater robot to test various nose designs, utilizing modified pressure sensors as pitot tubes.\nRemotely Operated Underwater Vehicle\nDesigned a robot capable of vertical movement in water, integrating pressure sensors and thermistors with PWM control."
+  },
+  {
+    "objectID": "cv.html#leadership-service",
+    "href": "cv.html#leadership-service",
+    "title": "Curriculum Vitae",
+    "section": "Leadership & Service",
+    "text": "Leadership & Service\nHarvey Mudd College, Office of Residential Life\nResidential Affairs Liason, Fall 2023 - Present\nAdvocated and introduced new regulations to make room selection process more transparent and fair. Implemented room retention program for students with limited safe housing options. Advocated for increase pay from $100 per year to $600 per semester.\nScouting America, Western Los Angeles County Council\nEagle Scout Rank, October 2021\nPlanned and executed a community service project to revitalize the Learning Garden at Beethoven Elementary School (LAUSD), involving 20+ volunteers and 100+ hours of labor. Managed budget, fundraising, and coordination with school officials."
   }
 ]
