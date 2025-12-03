@@ -1,15 +1,12 @@
 ---
 title: "Tribology & Surface Interaction Studies"
-subtitle: "Undergraduate Research | Harvey Mudd College & STLE"
+subtitle: "Undergraduate Research | Harvey Mudd College"
 ---
 
 ## Modification of Abrasiveness of Additive Manufacturing (SLA) Produced Components through Resin Formulation
 
-*STLE Atlanta SESSION 5F Tribotesting I (May 2025)*
-
-**Students:** Kanoa Parker, Miranda Brandt, Leilani Elkaslasy
-
-**Advisor:** Prof. Gordon Krauss
+*STLE Atlanta SESSION 5F Tribotesting I (May 2025)*\
+**Students:** Kanoa Parker, Miranda Brandt, Leilani Elkaslasy | **Advisor:** Prof. Gordon Krauss
 
 [![](images/sla-printing/Parker_STLE_thumbnail.jpg){width=40%}](images/sla-printing/Parker_STLE_thumbnail.jpg)
 
@@ -20,11 +17,8 @@ This study investigates modifying the friction and wear resistance of ceramic co
 
 ## SLA Additive Manufacturing: A Review of Resin Formulations and Patterning’s Impact on Abrasiveness
 
-*STLE Atlanta Student Poster Session (May 2025)*
-
-**Students:** Miranda Brandt, Leilani Elkaslasy, Kanoa Parker
-
-**Advisor:** Prof. Gordon Krauss
+*STLE Atlanta Student Poster Session (May 2025)*\
+**Students:** Miranda Brandt, Leilani Elkaslasy, Kanoa Parker | **Advisor:** Prof. Gordon Krauss
 
 [![](images/sla-printing/wear_volume_vs_cycles.png){width=50%}](images/sla-printing/wear_volume_vs_cycles.png)
 
@@ -38,11 +32,8 @@ Findings were presented at the 2025 Annual STLE Meeting in Atlanta Georgia. The 
 
 ## A Tribological Study for the Optimization of Pizza Making
 
-*STLE Atlanta Student Poster Session (May 2025)*
-
-**Students:** Miranda Brandt, Leilani Elkaslasy, Kanoa Parker
-
-**Advisor:** Prof. Gordon Krauss
+*STLE Atlanta Student Poster Session (May 2025)*\
+**Students:** Miranda Brandt, Leilani Elkaslasy, Kanoa Parker | **Advisor:** Prof. Gordon Krauss
 
 ![](images/pizza-tribology/pizza_thumbnail.png){width=30%}
 

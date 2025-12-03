@@ -1,16 +1,13 @@
 ---
 title: "Cryogenic Characterization of HfO2 Memristors"
 subtitle: "NSF REU at University of Tennessee, Knoxville (Summer 2025)"
-date: 2025-07-31
 ---
 
 This page details my work as an Undergraduate Researcher mentored by Rocco Febbo and Dr. Garrett Rose, focusing on low-temperature memory design for quantum and neuromorphic computing applications. The project involved two main components: experimental evaluation of memristor failure at cryogenic temperatures and the design of a custom PCB ("Octopus PCB").
 
 ## RESET-Failure Evaluation of HfO₂-Based Memristors at Cryogenic Temperatures
 
-**Author:** Kanoa Parker
-
-**Mentors:** Rocco Febbo, Dr. Garrett Rose
+**Author:** Kanoa Parker | **Mentors:** Rocco Febbo, Dr. Garrett Rose
 
 [![](images/octopus-pcb/reset_failure_poster.jpg){width=60%}](images/octopus-pcb/reset_failure_poster_large.png)
 
@@ -27,9 +24,7 @@ Using a B1500A Semiconductor Device Analyzer and a FormFactor PMC200 cryogenic p
 
 ## Octopus PCB
 
-**Author:** Kanoa Parker
-
-**Mentors:** Rocco Febbo, Dr. Garrett Rose
+**Author:** Kanoa Parker | **Mentors:** Rocco Febbo, Dr. Garrett Rose
 
 The main function of the PCB is to allow the user to connect two 25 Position D-Sub Male Cable to then be connected to Analog Input Pixie 6365 or a Analog Output Pixie 6738.
 

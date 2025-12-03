@@ -1,0 +1,56 @@
+---
+title: "Coursework & Final Projects"
+---
+
+### **Digital Audio Effects Guitar Pedals (Work in Progress)**
+
+**Course**: Electronic and Microprocessor Systems (`ENGR155`, Fall 2025)
+
+* Developing guitar pedals to add audio effects (degradation chorus, reverb) using an external ADC, FPGA, and STM32 MCU in tandem.
+*   **Skills:** SystemVerilog, C, ARM Assembly, FPGA (Lattice iCE40), Microcontrollers (STM32), DSP, SPI/I2S, Hardware-Software Co-Design.
+
+[Lab Assignments](https://kanparker.github.io/e155-portfolio/labss.html)
+
+### **Analog Operational Amplifier Design**
+
+**Course**: Analog Circuit Design (`ENGR151`, Spring 2025) | **Partner**: Slader Spoor
+
+*   Designed and constructed a fully operational amplifier from discrete 2N3904 and 2N3906 BJTs, utilizing a suite of passive components (resistors, diodes, capacitors).
+*   Integrated key subcircuits including a current mirror for biasing, an emitter follower for buffering, a Class AB output stage for high-fidelity signal delivery, and a common emitter with degeneration for stable gain.
+*   Achieved critical design objectives: high-impedance differential inputs, low output impedance, and high DC gain, demonstrating proficiency in fundamental analog circuit design principles.
+*   **Skills:** Analog Circuit Design, BJT Amplifiers, Current Mirrors, Differential Pairs, LTSpice, Oscilloscope, Feedback Stability.
+
+### **Electrocardiogram**
+
+**Course**: Electronic and Magnetic Circuits and Devices (`ENGR084`, Fall 2024) | **Partner**: Caiya Coggshall
+
+*   Designed and built an electrocardiogram to measure the electrical activity of the heart.
+*   Used an instrumentation amplifier, high pass filter, low pass filter, and notch filter to process the signal and visualized it on an oscilloscope.
+*   **Skills:** Analog Circuit Design, Oscilloscope, Circuit Design.
+
+### **Automatic Ball Feeder**
+
+**Course**: Introduction to Engineering Design (`ENGR004`, Fall 2024)
+
+*   In a group of 5 students, constructed a device that would feed baseballs periodically into a Hack Attack Jr. pitching machine.
+*   Designed a funnel and rail system to store the balls before they were dispensed into the machine.
+*   Implemented a motor controller and a wheel to vary the speed at which balls were released.
+*   **Skills:** Woodworking, Integrated Circuit Design, Teamwork, Communication, AutoCAD.
+
+### **Autonomous Underwater Vehicle**
+
+**Course**: Experimental Engineering (`ENGR080`, Spring 2024)
+
+*   Developed an underwater robot in a team of 4 students to test various nose designs underwater.
+*   Utilized modified pressure sensors as pitot tubes to measure relative velocity.
+*   Employed anemometers to measure wind speed and force sensors to measure drag force.
+*   **Skills:** Integrated Circuit Design, MATLAB, Soldering, Arduino.
+
+### **Remotely Operated Underwater Vehicle**
+
+**Course**: Introduction to Engineering Systems (`ENGR079`, Fall 2023)
+
+*   Designed a robot capable of vertical movement in water in collaboration with another student.
+*   Integrated pressure sensors for depth measurement and thermistors for water temperature monitoring.
+*   Utilized PWM control and motors to adjust the depth of the robot.
+*   **Skills:** Integrated Circuit Design, Soldering, LabVIEW, Communication.

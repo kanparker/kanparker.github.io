@@ -1,0 +1,32 @@
+---
+title: "Engineering Clinic Projects"
+---
+
+*A signature program at Harvey Mudd, Engineering Clinic is a capstone project sponsored by industry, government, academic institutions, and non-profit foundations. Student teams function as professional consultants for a given project, managing real-world budgets and deliverables to design, build, and test field-ready systems for their clients, directly applying academic theory to professional engineering practice. [More information](https://www.hmc.edu/clinic/)*
+
+### **Regenerative Load for HITL Test System (Work in Progress)**
+**Sponsor**: Exolambda - Aerospace Engineering | **Students**: ..., Kanoa Parker, ... | **Advisor**: ... | **Project Liasons**: ... | **Year**: Senior
+
+**My Contributions**:
+
+*   Collaborating with a team to design and build a regenerative load for a Hardware-in-the-Loop (HITL) test system, requiring a minimum of three variable loads at 48 V and 10 A capacity.
+*   Heavily involved in the physical building and testing of regenerative aspects, utilizing buck and boost converters and grid-tie inverters to refine the overall architecture.
+*   Coordinated with team members on variable load development, ensuring interface compatibility (connectors, test points).
+*   Developed two distinct architecture setups: one feeding power back to AC mains via a grid-tie inverter, and another generating DC voltage back to the PSU.
+*   Expanded systems-level design capabilities in an open-ended project environment.
+
+### **Redesign of Low-Cost Sensors used in Community-engaged Air Pollution Monitoring**
+
+![](images/air-quality/sensor_deployment_map.png){width=40%}
+
+**Sponsor**: UC Berkeley | **Students**: Zhian Zhou, Carmen Horenstein, Madeleine Kan, Thomas Lilygren, Matthew Molinar, Julia Manese, Megan Kho, Kanoa Parker, Marcos Ng Carrion | **Advisor**: Dr. Yifan Wu | **Project Liaisons**: Dr. Chelsea Preble, Dr. Tom Kirchstetter | **Year**: Junior
+
+[**Project Poster (PDF)**](images/air-quality/uc_berkeley_air_quality_poster.pdf)
+
+**My Contributions**:
+
+* Updated communication hardware for an existing air sensor system used to measure air quality around industrial areas of Oakland.
+* Researched and identified suitable wireless communication protocols and hardware options to transmit sensor data to a web server.
+* Considered numerous outside factors, including location constraints, community WiFi access, signal strength in industrial areas, and LoRaWAN gateway availability.
+* Navigated significant system limitations imposed by battery efficiency, which constrained sampling and data transmission rates, impacting overall system operational life.
+* Developed a "large system thinking" mindset, identifying factors beyond traditional electrical engineering to create a functional product for public good.

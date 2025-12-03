@@ -10,28 +10,19 @@ Bachelor of Science in Engineering, Expected May 2026
 ## Research & Development Experience
 
 **Harvey Mudd College, Department of Engineering**\
-*Clinic Project Member*, Fall 2025\
-Sponsor: Exolambda
-
+*Clinic Project Member*, Fall 2025 | Sponsor: Exolambda\
 Regenerative Load for HITL Test System (in progress).
 
 **University of Tennessee, Knoxville, Department of Engineering and Computer Science**\
-*Undergraduate Researcher (NSF REU)* Summer 2025\
-Advisors: Rocco Febbo & Dr. Garrett Rose
-
+*Undergraduate Researcher (NSF REU)* Summer 2025 | Advisors: Rocco Febbo & Dr. Garrett Rose\
 Cryogenic Characterization of HfO₂ Memristors and the design of a custom PCB ("Octopus PCB").
 
 **Harvey Mudd College, Department of Engineering**\
-*Undergraduate Researcher* Summer 2024 - Spring 2025\
-Advisor: Dr. Gordon Krauss
-
+*Undergraduate Researcher* Summer 2024 - Spring 2025 | Advisor: Dr. Gordon Krauss\
 Tribology & Surface Interaction Studies.
 
 **Harvey Mudd College, Department of Engineering**\
-*Clinic Project Member* Fall 2024\
-Sponsor: UC Berkeley\
-Advisor: Dr. Yifan Wu
-
+*Clinic Project Member* Fall 2024 | Sponsor: UC Berkeley | Advisor: Dr. Yifan Wu\
 Air Quality Sensor Communication Hardware Upgrade.
 
 ## Publications & Presentations
