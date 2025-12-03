@@ -4,31 +4,99 @@ title: "Curriculum Vitae"
 
 ## Education
 
-**Harvey Mudd College** | Claremont, CA
-*Bachelor of Science in Engineering* | Expected May 2026
+**Harvey Mudd College**, Department of Engineering, Claremont, CA  
+Bachelor of Science in Engineering, Expected May 2026
 
-## Research Experience
+## Research & Development Experience
 
-**Undergraduate Researcher** | University of Tennessee, Knoxville (Summer 2025)
-*Cryogenic Characterization of HfO2 Memristors*, Mentor: Rocco Febbo, Supervisor: Dr. Garrett Rose
+**Harvey Mudd College, Department of Engineering**\
+*Clinic Project Member*, Fall 2025\
+Sponsor: Exolambda
 
-**Senior Clinic Project Member** | Exolambda (Current)
-*Regenerative Load for HITL Test System*
+Regenerative Load for HITL Test System (in progress).
 
-**Junior Clinic Project Member** | UC Berkeley - Civil & Environmental Engineering (Junior Year)
-*Air Quality Sensor Communication Hardware Upgrade*, Client: Dr. Chelsea Preble, UC Berkeley
+**University of Tennessee, Knoxville, Department of Engineering and Computer Science**\
+*Undergraduate Researcher (NSF REU)* Summer 2025\
+Advisors: Rocco Febbo & Dr. Garrett Rose
 
-## Skills
+Cryogenic Characterization of HfO₂ Memristors and the design of a custom PCB ("Octopus PCB").
 
-*   **Programming Languages:** Python (PyVISA), C/C++, MATLAB
-*   **Hardware Design & Tools:** PCB Design (Altium), FPGA (Xilinx), Microcontrollers (STM32, Arduino), Analog Circuit Design, Power Electronics, LTSpice
-*   **Software & Tools:** Git, LaTeX, Verilog-A, SolidWorks
-*   **Domain Expertise:** Integrated Circuit Power Efficiency, Signal Processing, Control Systems, Memristors, Cryogenic Testing, Embedded Systems, System-Level Design
+**Harvey Mudd College, Department of Engineering**\
+*Undergraduate Researcher* Summer 2024 - Spring 2025\
+Advisor: Dr. Gordon Krauss
+
+Tribology & Surface Interaction Studies.
+
+**Harvey Mudd College, Department of Engineering**\
+*Clinic Project Member* Fall 2024\
+Sponsor: UC Berkeley\
+Advisor: Dr. Yifan Wu
+
+Air Quality Sensor Communication Hardware Upgrade.
 
 ## Publications & Presentations
 
-*   **Kanoa Parker**, Rocco Febbo, Garrett Rose, "RESET-Failure of HfO₂-Based Memristors Evaluation at Cryogenic Temperatures", Summer Research Scholars (SRS) Symposium, University of Tennessee Knoxville, July 2025. [View Poster](https://symposium.foragerone.com/utk-summer-research-scholars-symposium-2025/presentations/74861)
-*   **Kanoa Parker**, Miranda Brandt, Leilani Elkaslasy, Gordon Krauss, "Modification of Abrasiveness of Additive Manufacturing (SLA) Produced Components through Resin Formulation", STLE Atlanta SESSION 5F Tribotesting I, Atlanta, GA, May 2025. [Download PDF](images/sla-printing/Parker_STLE_compressed.pdf)
-*   Gordon Krauss, Miranda Brandt, Leilani Elkaslasy, **Kanoa Parker**, "SLA Additive Manufacturing: A Review of Resin Formulations and Patterning’s Impact on Abrasiveness", STLE Atlanta Student Poster Session, Atlanta, GA, May 2025.
-*   Gordon Krauss, Miranda Brandt, Leilani Elkaslasy, **Kanoa Parker**, "A Tribological Study for the Optimization of Pizza Making", STLE Atlanta Student Poster Session, Atlanta, GA, May 2025.
-*   Zhian Zhou, Carmen Horenstein, Thomas Lilygren, Matthew Molinar, and Madeleine Kan, Megan Kho, Julia Manese, **Kanoa Parker**, Yifan Wu, “Redesign of Low-cost Sensors Used in Community-engaged Air Pollution Monitoring”, Harvey Mudd College Project Day, Claremont, CA, May 2025.
+**Kanoa Parker**, Rocco Febbo, Garrett Rose, "RESET-Failure of HfO₂-Based Memristors Evaluation at Cryogenic Temperatures", Summer Research Scholars (SRS) Symposium, University of Tennessee Knoxville, July 2025. [Poster (JPG)](https://symposium.foragerone.com/utk-summer-research-scholars-symposium-2025/presentations/74861), [Technical Report (PDF)]((images/octopus-pcb/technical_report.pdf))
+
+**Kanoa Parker**, Miranda Brandt, Leilani Elkaslasy, Gordon Krauss, "Modification of Abrasiveness of Additive Manufacturing (SLA) Produced Components through Resin Formulation", STLE Atlanta SESSION 5F Tribotesting I, Atlanta, GA, May 2025. [Slides (PDF)](images/sla-printing/Parker_STLE_compressed.pdf)
+
+Gordon Krauss, Miranda Brandt, Leilani Elkaslasy, **Kanoa Parker**, "SLA Additive Manufacturing: A Review of Resin Formulations and Patterning’s Impact on Abrasiveness", STLE Atlanta Student Poster Session, Atlanta, GA, May 2025. [Poster (PDF)](images/sla-printing/sla_poster.pdf)
+
+Gordon Krauss, Miranda Brandt, Leilani Elkaslasy, **Kanoa Parker**, "A Tribological Study for the Optimization of Pizza Making", STLE Atlanta Student Poster Session, Atlanta, GA, May 2025. [Poster (PDF)](images/pizza-tribology/tribological_study_pizza_making.pdf)
+
+
+Zhian Zhou, Carmen Horenstein, Madeleine Kan, Thomas Lilygren, Matthew Molinar, Julia Manese, Megan Kho, **Kanoa Parker**, Marcos Ng Carrion, Yifan Wu, “Redesign of Low-cost Sensors Used in Community-engaged Air Pollution Monitoring”, Harvey Mudd College Project Day, Claremont, CA, May 2025. [Project Poster (PDF)](images/air-quality/uc_berkeley_air_quality_poster.pdf)
+
+
+## Teaching
+
+**Harvey Mudd College, Department of Engineering**\
+*Proctor for [ENGR079 (E79) Introduction to Engineering Systems](https://sites.google.com/g.hmc.edu/e79-practicum/home)*, Fall 2024\
+Assist Professor and Staff in facilitating Practicum Labs. Grade student practicum submission sheet. Assist students in creating and developing their underwater robots. [Video highlights of E79.](https://www.youtube.com/watch?v=cR1cG40wRGE)
+
+**Lavner Education, Camp Tech Revolution at UCLA Campus**\
+*Instructor and IT Intern*, Summer 2023\
+Created curriculum for classes such as 3D design and printing, Lego Robotics, and Sports Analytics. Taught technical classes ranging from 5 to 30 students within the age range of 5 to 14 years old.
+
+<!--#
+**Scouting America, Camp Whitsett, Kernville, CA**\
+*Director of Handicraft*, Summer 2022\
+Coordinated the Handicraft Area, which educated campers on topics such as wood carving, pottery, art, etc. Developed lesson plans for 5 different merit badge classes and instructed staff of 4 personnel. Taught Wood Carving and Pottery Merit Badge.
+
+**Scouting America, Camp Whitsett, Kernville, CA**\
+*Handicraft Merit Badge Counselor*, Summer 2021\
+Educated campers on woodcarving, explaining a variety of carving techniques and safety. Taught classes of approximately 15-30 students. Assisted as a server in the kitchen, actor in the weekly campfires, guided hikers up Sentinel Peak.
+-->
+
+## Leadership
+
+**Harvey Mudd College, Office of Residential Life**\
+*Residential Affairs Liason*, Fall 2023 - Present\
+Advocated and introduced new regulations to make room selection process more transparent and fair. Implemented room retention program for students with limited safe housing options. Advocated for increase pay from $100  per year to $600 per semester.
+
+**Scouting America, Western Los Angeles County Council**\
+*Eagle Scout Rank*, October 2021\
+Planned and executed a community service project to revitalize the Learning Garden at Beethoven Elementary School (LAUSD), involving 20+ volunteers and 100+ hours of labor. Managed budget, fundraising, and coordination with school officials.
+
+## Honors & Awards
+
+Dean's List, Harvey Mudd College (Spring 2023, Fall 2023, Fall 2024, Spring 2025)\
+Crawford Memorial Scholarship, Santa Monica Education Foundation (May 2022)\
+Simson Rehwald Scholarship, Santa Monica Education Foundation (May 2022)\
+<!--# 
+Junior Staffer of the Year, Camp Whitsett, Kernville, CA (August 2021)\ 
+-->
+
+## Skills
+
+**Programming Languages:** Python (PyVISA), C/C++, MATLAB\
+**Hardware Design & Tools:** PCB Design (Altium), FPGA (Xilinx), Microcontrollers (STM32, Arduino), Analog Circuit Design, Power Electronics, LTSpice\
+**Software & Tools:** Git, LaTeX, Verilog-A, SolidWorks\
+**Domain Expertise:** Integrated Circuit Power Efficiency, Signal Processing, Control Systems, Memristors, Cryogenic Testing, Embedded Systems, System-Level Design\
+
+## Activities & Interests
+
+**Men's Rugby, Claremont Colleges**\
+*Player*, Fall 2022 - Present\
+Devoted 15+ hours/week during the season to train and travel for intercollegiate competition while maintaing a full-time academic schedule.
+

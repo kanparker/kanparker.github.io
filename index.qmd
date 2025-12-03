@@ -1,6 +1,6 @@
 ---
 title: "Kanoa Parker"
-subtitle: "Electrical Engineering Student | PhD Applicant"
+subtitle: "Electrical Engineering | PhD Applicant"
 about:
   template: jolla
   image: images/profile.jpg
@@ -18,8 +18,6 @@ about:
       href: mailto:kanoa.parker@gmail.com # REPLACE with your email address
 ---
 
-## About Me
-
 I am a senior in Electrical Engineering at [Harvey Mudd College](https://www.hmc.edu), motivated by the principle of using thoughtful, informed systems design to address pressing systemic challenges. My core focus is the escalating energy demands of modern computation. Dedicated to creating **scalable and sustainable solutions**, my research centers on **Power Electronics and Integrated Circuit (IC) Design**, specifically developing efficient, reliable hardware architectures for AI and data centers.
 
 My background spans the hardware stack: from analyzing **device physics** (characterizing memristors at 77K) to building **system-level power stages** (designing regenerative loads for HITL testing).
@@ -28,12 +26,12 @@ I am actively pursuing PhD opportunities to create scalable, **high-reliability 
 
 ---
 
-### Research Interests & Experience
+## Research Interests
 
-* **Integrated Circuit Power Efficiency & Microelectronics:** Novel device architectures, HfO₂-based resistive memory, and low-temperature memory design for applications in **quantum and neuromorphic computing**.
+**Integrated Circuit Power Efficiency & Microelectronics:** Novel device architectures, HfO₂-based resistive memory, and low-temperature memory design for applications in **quantum and neuromorphic computing**.
 
-* **Cryogenic Device Testing & Semiconductor Analysis:** Expertise in **high-level instrument control** (Keysight B1500A Semiconductor Device Analyzer, PyVISA, custom Python bindings). Characterized HfO₂ memristors at 77 K; data used to refine existing Verilog-A models for cryogenic architecture design.
+**Cryogenic Device Testing & Semiconductor Analysis:** Expertise in **high-level instrument control** (Keysight B1500A Semiconductor Device Analyzer, PyVISA, custom Python bindings). Characterized HfO₂ memristors at 77 K; data used to refine existing Verilog-A models for cryogenic architecture design.
 
-* **Embedded Control & Analog Circuit Design:** Hands-on experience designing and physically constructing complex analog subcircuits (e.g., operational amplifier from scratch using BJTs, including current mirrors and Class AB output stage). Demonstrated proficiency in digital control (STM32 microcontroller programming, generating PWM, interpreting motor encoder interrupts, integrating sensors and ESP8266 webservers).
+**Embedded Control & Analog Circuit Design:** Hands-on experience designing and physically constructing complex analog subcircuits (e.g., operational amplifier from scratch using BJTs, including current mirrors and Class AB output stage). Demonstrated proficiency in digital control (STM32 microcontroller programming, generating PWM, interpreting motor encoder interrupts, integrating sensors and ESP8266 webservers).
 
-* **System-Level Design & Systems Thinking:** Proven ability to solve **open-ended engineering challenges** and coordinate complex system interfaces. Experience includes building regenerative loads utilizing power electronics (buck/boost converters, AC grid tie inverters) for **Hardware-in-the-Loop (HIL) test systems**, and adapting designs based on critical real-world constraints such as **limited battery life** and **environmental factors** (e.g., winter reducing efficiency, summer heat damaging components).
+**System-Level Design & Systems Thinking:** Proven ability to solve **open-ended engineering challenges** and coordinate complex system interfaces. Experience includes building regenerative loads utilizing power electronics (buck/boost converters, AC grid tie inverters) for **Hardware-in-the-Loop (HIL) test systems**, and adapting designs based on critical real-world constraints such as **limited battery life** and **environmental factors** (e.g., winter reducing efficiency, summer heat damaging components).
